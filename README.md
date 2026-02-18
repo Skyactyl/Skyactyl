@@ -18,14 +18,14 @@ Stop settling for less. Make game servers a first class citizen on your platform
 * ` 🎨 ` **Client-side Theme Selector**: Let your clients' choose between various styles according to their liking.
 * ` 🖥️ ` **Modern UI**: Skyactyl offers a modern and sleek UI that's more accessible than other modifications on market.
 * ` 🌍 ` **Multilingual**: Skyactyl is fully translatable and can be localized to your native language.
-* ` 🧩 ` **Compatible with Blueprint Addons**: Skyactyl is fully compatible with Blueprint addons. (Requires [Blueprint for Skyactyl](https://github.com/skyactyl/blueprint) )
+* ` 🧩 ` **Compatible with Blueprint Addons**: Skyactyl is fully compatible with Blueprint addons. (Requires [Blueprint for Skyactyl](https://github.com/Skyactyl/blueprint) )
 * ` 🔌 ` **Compatible with Standalone Addons**: Skyactyl is fully compatible with pterodactyl-native addons.
 * ` 🍀 ` **Open Source & Free**: The first and only free frontend modifications for pterodactyl with premium-like customizability.
 
 ## Sponsors
 
 I would like to extend my sincere thanks to the following sponsors for helping fund Skyactyl's development.
-[Interested in becoming a sponsor?](https://github.com/sponsors/skyactyl)
+[Interested in becoming a sponsor?](https://github.com/sponsors/Skyactyl)
 
 | Company                                                                           | About                                                                                                                                                                                                                                           |
 |-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,6 +33,6 @@ I would like to extend my sincere thanks to the following sponsors for helping f
 
 ## License
 
-Pterodactyl® Copyright © 2015 - 2022 Dane Everitt and contributors. (Licensed under [MIT](https://github.com/skyactyl/panel/blob/develop/PTERO_LICENSE.md))
+Pterodactyl® Copyright © 2015 - 2022 Dane Everitt and contributors. (Licensed under [MIT](https://github.com/Skyactyl/Skyactyl/blob/develop/PTERO_LICENSE.md))
 
-Skyactyl™, Copyright © 2025 Skyactyl and contributors. (Licensed under [MIT](https://github.com/skyactyl/panel/blob/develop/LICENSE.md))
+Skyactyl™, Copyright © 2025 Skyactyl and contributors. (Licensed under [MIT](https://github.com/Skyactyl/Skyactyl/blob/develop/LICENSE.md))
