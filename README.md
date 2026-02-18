@@ -44,22 +44,3 @@ Contributors help the development of Skyactyl panel. To start contributing you h
 <a href="https://github.com/skyactyl/panel/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=skyactyl/panel" />
 </a>
-
-## Stargazers
-
-<a href="https://github.com/skyactyl/panel/stargazers/">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/skyactyl/panel">
-    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/skyactyl/panel">
-  </picture>
-</a>
-
-## Star History
-
-<a href="https://www.star-history.com/#skyactyl/panel&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=skyactyl/panel&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=skyactyl/panel&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=skyactyl/panel&type=Date" />
- </picture>
-</a>
