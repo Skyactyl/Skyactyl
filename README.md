@@ -42,7 +42,7 @@ sudo mkdir -p /var/www/pterodactyl
 cd /var/www/pterodactyl
 
 # 3. Download dan Ekstrak Panel Skyactyl
-curl -Lo Skyactyl.tar.gz https://github.com/Skyactyl/Skyactyl/releases/latest/download/Skyactyl.tar.gz
+curl -Lo Skyactyl.tar.gz https://github.com/Skyactyl/Skyactyl/archive/refs/tags/Skyactyl.tar.gz
 tar -xzvf Skyactyl.tar.gz
 
 # 4. Set Permission
