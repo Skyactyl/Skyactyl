@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://skyactyl.dev/">
-<img width="1280" height="640" alt="Skyactyl Banner" src="https://github.com/user-attachments/assets/78e35fc7-4009-4678-b6dc-eec62ec7e7de" />
+<img width="1280" height="640" alt="Skyactyl Banner" src="" />
 </a>
 </p>
 
