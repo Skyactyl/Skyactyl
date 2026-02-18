@@ -36,11 +36,3 @@ I would like to extend my sincere thanks to the following sponsors for helping f
 Pterodactyl® Copyright © 2015 - 2022 Dane Everitt and contributors. (Licensed under [MIT](https://github.com/skyactyl/panel/blob/develop/PTERO_LICENSE.md))
 
 Skyactyl™, Copyright © 2025 Skyactyl and contributors. (Licensed under [MIT](https://github.com/skyactyl/panel/blob/develop/LICENSE.md))
-
-## Contributors
-
-Contributors help the development of Skyactyl panel. To start contributing you have to [fork this repository](https://github.com/skyactyl/panel/fork) and [open a pull request](https://github.com/skyactyl/panel/compare).
-
-<a href="https://github.com/skyactyl/panel/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=skyactyl/panel" />
-</a>
